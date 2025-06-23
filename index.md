@@ -57,8 +57,6 @@ Levar saúde de qualidade a todos os lugares — mesmo os mais remotos — por m
 - **Refrigerado** (ex. hemocomponentes): R$ 6.000/mês
 - **Emergencial** (inclui órgãos): R$ 15.000/mês
 
-**Ticket médio estimado**: R$ 8.300
-
 
 
 
