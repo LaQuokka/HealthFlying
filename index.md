@@ -9,13 +9,15 @@ title: Home
 
 A **HealthFlying** é uma startup dedicada a transformar a logística da saúde. Utilizamos drones para realizar entregas rápidas, seguras e ambientalmente responsáveis de insumos médicos, superando barreiras geográficas e logísticas.
 
----
+
+
 
 ## 🚀 Nossa Missão
 
 Levar saúde de qualidade a todos os lugares — mesmo os mais remotos — por meio de uma tecnologia inovadora, eficiente e verde.
 
----
+
+
 
 ## 🌍 Problemas que Resolvemos
 
@@ -23,7 +25,8 @@ Levar saúde de qualidade a todos os lugares — mesmo os mais remotos — por m
 - **Tempo de isquemia fria**: Órgãos como pulmões e corações têm tempo restrito para transplantes.
 - **Emissões de carbono**: Reduzimos drasticamente a pegada de carbono do transporte de insumos.
 
----
+
+
 
 ## ✨ Nossos Diferenciais
 
@@ -32,7 +35,9 @@ Levar saúde de qualidade a todos os lugares — mesmo os mais remotos — por m
 - Integração com **normas regulatórias da saúde**
 - Operação com **drones de 65 km/h**, otimizando o tempo para cirurgias e emergências
 
----
+
+
+
 
 ## 📈 Impacto e Resultados
 
@@ -40,7 +45,9 @@ Levar saúde de qualidade a todos os lugares — mesmo os mais remotos — por m
 - **Entrega até 80% mais rápida em áreas urbanas**
 - **Economia de até 23% em custos logísticos em longas distâncias**
 
----
+
+
+
 
 ## 📊 Mercado e Oportunidade
 
@@ -48,7 +55,9 @@ Levar saúde de qualidade a todos os lugares — mesmo os mais remotos — por m
 - SAM: R$ 87,36 milhões (mercado brasileiro)
 - SOM: R$ 9,96 milhões (parcela obtível no 1º ano)
 
----
+
+
+
 
 ## 💸 Modelo de Receita
 
@@ -60,7 +69,9 @@ Planos disponíveis:
 
 **Ticket médio estimado**: R$ 8.300
 
----
+
+
+
 
 ## 📅 Roadmap
 
@@ -68,7 +79,9 @@ Planos disponíveis:
 - **Jan 2026**: Validação do modelo de negócio e expansão da base de clientes
 - **Mar 2027**: Expansão para novas cidades e integração com o SUS
 
----
+
+
+
 
 ## 💰 Projeções Financeiras
 
@@ -77,14 +90,18 @@ Planos disponíveis:
 - Break-even com apenas **4 clientes**
 - ROI anual estimado: **52%**
 
----
+
+
+
 
 ## 🎯 Captação de Recursos
 
 - **Mínima (R$ 341.600)**: Drones, infraestrutura, licenças, reserva de caixa
 - **Ideal (R$ 750.000)**: Expansão tecnológica, marketing e fortalecimento da equipe
 
----
+
+
+
 
 ## 👥 Nosso Time
 
@@ -93,7 +110,9 @@ Planos disponíveis:
 - **Cinthya Beneducci** – Técnica | cinthyabeneducci@usp.br  
 - **Letícia de Paula** – Comunicação | leticia.ps@usp.br
 
----
+
+
+
 
 ## 📬 Fale Conosco
 
